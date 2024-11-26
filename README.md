@@ -1,5 +1,5 @@
 # Github Username API
-[![Status overview badge](../../blob/badges/.github/badges/main/badge.svg)](#-results)
+[![Status overview badge](../../blob/badges/.github/badges/solution/badge.svg)](#-results)
 
 
 Create a webpage to find repositories from a given Github username. The webpage should enable the user to enter a Github username into a form and send this form to the Github API to retrieve a list of all the user's repositories.
@@ -81,14 +81,14 @@ You are going to have to research the GitHub API documentation and try out thing
 
 |                 Status                  | Check                                                                                    |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status0.svg) | Input field should exists |
-| ![Status](../../blob/badges/.github/badges/main/status1.svg) | Submit Button Should exist on page |
+| ![Status](../../blob/badges/.github/badges/solution/status0.svg) | Input field should exists |
+| ![Status](../../blob/badges/.github/badges/solution/status1.svg) | Submit Button Should exist on page |
 
 ### Github repositories
 
 |                 Status                  | Check                                                                                    |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status2.svg) | Should display list of provided GitHub user's repos after submit |
+| ![Status](../../blob/badges/.github/badges/solution/status2.svg) | Should display list of provided GitHub user's repos after submit |
 
 
 
